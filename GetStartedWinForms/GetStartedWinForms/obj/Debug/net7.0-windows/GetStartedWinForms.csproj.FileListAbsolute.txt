@@ -1,7 +1,0 @@
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.MainForm.resources
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.csproj.GenerateResource.cache
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.AssemblyInfoInputs.cache
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.AssemblyInfo.cs
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.csproj.CoreCompileInputs.cache
-C:\Users\opilane\source\repos\GetStartedWinForms\GetStartedWinForms\obj\Debug\net7.0-windows\GetStartedWinForms.sourcelink.json
